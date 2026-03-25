@@ -1,5 +1,6 @@
 package edu.tcu.cs.hogwartsartifactsonline.system;
 
+
 public class Result {
 
     private boolean flag; // Two values: true means success, false means not success
