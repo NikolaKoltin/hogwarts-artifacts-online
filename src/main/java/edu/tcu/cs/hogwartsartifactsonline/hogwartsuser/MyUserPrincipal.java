@@ -15,7 +15,7 @@ public class MyUserPrincipal implements UserDetails {
         this.hogwartsUser = hogwartsUser;
     }
 
-    private HogwartsUser hogwartsUser;
+    private final HogwartsUser hogwartsUser;
 
 
     @Override
